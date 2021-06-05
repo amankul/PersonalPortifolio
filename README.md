@@ -6,4 +6,4 @@ It has four themes enabled within it, you can switch to suit your needs.
 
 See the live page [HERE](https://flamboyamit.netlify.app/)
 
-// ![](images/Capture.PNG)
+// ![](images/cover.jpg)
