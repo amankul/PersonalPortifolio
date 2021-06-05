@@ -97,7 +97,7 @@ h6{font-size: 16px;}
 	border-radius: 5px 5px 0 0;
 	justify-content: space-between;
 	align-items: center;
-	background-color: var(--mainColor)
+	background-color: #bf9ed9;
 }
 
 #navigation a{
