@@ -5,5 +5,6 @@ It is a single page site with a link to post page.
 It has four themes enabled within it, you can switch to suit your needs.
 
 See the live page [HERE](https://flamboyamit.netlify.app/)
+Can also be hosted on https://vercel.com/
 
 // ![](images/cover.jpg)
